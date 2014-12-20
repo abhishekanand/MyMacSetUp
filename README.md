@@ -1,4 +1,4 @@
-MyMacSetUp
-==========
+My Mac Set Up
+===================
 
-My Mac Setup OSX Ysomite
+My Mac Setup OSX Yosemite 
