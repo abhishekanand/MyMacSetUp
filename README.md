@@ -9,7 +9,7 @@ My Mac Setup OSX Yosemite
 
 ## Install Software
 
-The software selected is software that is "installed after my first Macbook Pro.
+The software selected is software that is installed after my first Macbook Pro.
 ### Install from App Store
 
 1.  Xcode  (Version 6.1.1)
@@ -25,14 +25,14 @@ The software selected is software that is "installed after my first Macbook Pro.
 1. Chrome (installed via Cask)
 2. [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 	
-### Devtool
+### Devtools
 1. GitHub for Mac
 
-### Utility
+### Utility Software
 1.  Atom editor
 2.  LightPaper
 	
-### Random
+### Randoms
 
 1.  AdwareMedic
 2.  AppCleaner
@@ -43,10 +43,7 @@ The software selected is software that is "installed after my first Macbook Pro.
 
 
 
-
 #Installation #
-
-
 
 * Xode
 * Xcode Command Line Developer Tools
