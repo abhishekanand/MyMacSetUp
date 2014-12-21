@@ -1,12 +1,12 @@
 My Mac Set Up
 ===================
 
-My Mac Setup OSX Yosemite 
+My Mac Setup OSX Yosemite
 
 
-My Mac Software installation List 
+My Mac Software installation List
 
-* Google Chrome 
+* Google Chrome
 * Firefox
 * AdwareMedic
 * AppCleaner
@@ -35,9 +35,10 @@ The software selected is software that is "tried and true" --- software I need a
 ### Install from App Store
 
 * Xcode  (Version 6.1.1)
-	
+* Alfred
 
-### Install from Third-Party Websites 
+
+### Install from Third-Party Websites
 
 * Browsers
 	* Chrome (installed via Cask)
@@ -88,4 +89,3 @@ Target: x86_64-apple-darwin14.0.0
 Thread model: posix
 
 ```
- 
