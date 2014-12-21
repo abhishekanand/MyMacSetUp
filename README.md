@@ -54,7 +54,7 @@ xcode-select: note: install requested for command line developer tools
 ```
 
 ![]
-(/Users/Anand/GitHub/MyMacSetUp/images/Xcode_CLI.jpg)
+(https://raw.githubusercontent.com/aageek/MyMacSetUp/master/images/Xcode_CLI.jpg)
 
 Git (came with Xcode)
 ------------------------------
