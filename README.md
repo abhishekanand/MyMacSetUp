@@ -30,7 +30,8 @@ The software selected is software that is installed after my first Macbook Pro.
 
 ### Utility Software
 1.  Atom editor
-2.  LightPaper
+2.  Brackets Editor
+2.  [LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/) - MarkDown Editor
 3.  [Inky for Mac](http://inky.com/) - Email Client
 	
 ### Randoms
@@ -41,6 +42,7 @@ The software selected is software that is installed after my first Macbook Pro.
 4.  VLC
 5.  CCleaner 
 6.  Snagit 12
+7.  Spotify 
 
 
 
