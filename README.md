@@ -31,6 +31,7 @@ The software selected is software that is installed after my first Macbook Pro.
 ### Utility Software
 1.  Atom editor
 2.  LightPaper
+3.  [Inky for Mac](http://inky.com/) - Email Client
 	
 ### Randoms
 
