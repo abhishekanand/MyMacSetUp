@@ -225,7 +225,8 @@ $
 ```
 * NOTE : After installation of oh-my-zsh default shell for Terminal and iTerm 2 changed to zsh . I changed terminal shell  back to  bash and iTerm 2 to zsh.
 
- *Termimal  : Go to the Users & Groups pane of the System Preferences -> Select the User -> Click the lock to make changes (Bottom left corner) -> right click the Current user select Advanced options... -> Select the Login Shell: /bin/bash and OK*
+
+ *Terminal  : Go to the Users & Groups pane of the System Preferences -> Select the User -> Click the lock to make changes (Bottom left corner) -> right click the Current user select Advanced options... -> Select the Login Shell: /bin/bash and OK*
 
 *iTerm 2 : preferences Profiles Tab -> General section set Command to: /bin/zsh --login*
 
