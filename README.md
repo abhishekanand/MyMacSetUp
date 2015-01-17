@@ -50,6 +50,12 @@ The software selected is software that is installed after my first Macbook Pro.
 8.  Java 8 Update 25
 
 
+### File /Password  Sync Service
+
+1. [Copy](https://copy.com?r=stTE96)
+2. [1Password 5](https://agilebits.com/onepassword)
+
+
 
 #Installation #
 
