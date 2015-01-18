@@ -37,6 +37,9 @@ The software selected is software that is installed after my first Macbook Pro.
 6.  [Homebrew casks](http://caskroom.io/)
 7.  iTerm 2
 8.  oh-my-zsh 
+9. R 
+10. [Xquartz-2.7.7](http://xquartz.macosforge.org/landing/) 
+11. RStudio Desktop
 	
 ### Randoms
 
@@ -48,6 +51,7 @@ The software selected is software that is installed after my first Macbook Pro.
 6.  Snagit 12
 7.  Spotify 
 8.  Java 8 Update 25
+9.  Skype
 
 
 ### File /Password  Sync Service
