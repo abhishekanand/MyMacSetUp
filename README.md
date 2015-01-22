@@ -52,6 +52,7 @@ The software selected is software that is installed after my first Macbook Pro.
 7.  Spotify 
 8.  Java 8 Update 25
 9.  Skype
+10.  Enthought Canopy (Python )
 
 
 ### File /Password  Sync Service
