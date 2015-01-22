@@ -248,9 +248,23 @@ $
 
 #PATH changes #
 
+Current
+
+```
+$ date
+Thu Jan 22 00:28:07 PST 2015
+$ echo $PATH
+/Users/Anand/Library/Enthought/Canopy_64bit/User/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin
+```
+Past 
+
 ```
 $ date
 Sun Dec 21 00:09:26 PST 2014
 $ echo $PATH
 /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 ```
+
+
+######################END####################
+
