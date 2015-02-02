@@ -18,6 +18,7 @@ The software selected is software that is installed after my first Macbook Pro.
 4.  Pocket
 5.  slack
 6.  Twitter
+7.  Microsoft Remote Desktop
 
 ## Install from Third-Party Websites
 
@@ -59,6 +60,7 @@ The software selected is software that is installed after my first Macbook Pro.
 
 1. [Copy](https://copy.com?r=stTE96)
 2. [1Password 5](https://agilebits.com/onepassword)
+3. Dropbox
 
 
 
