@@ -54,6 +54,8 @@ The software selected is software that is installed after my first Macbook Pro.
 8.  Java 8 Update 25
 9.  Skype
 10.  Enthought Canopy (Python )
+11.  Flux 
+12.  Noiz.io
 
 
 ### File /Password  Sync Service
