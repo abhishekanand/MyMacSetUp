@@ -56,6 +56,7 @@ The software selected is software that is installed after my first Macbook Pro.
 10.  Enthought Canopy (Python )
 11.  Flux 
 12.  Noiz.io
+13.  [CheatSheet](http://www.mediaatelier.com/CheatSheet/)
 
 
 ### File /Password  Sync Service
