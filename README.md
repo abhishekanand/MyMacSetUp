@@ -41,6 +41,7 @@ The software selected is software that is installed after my first Macbook Pro.
 9. R 
 10. [Xquartz-2.7.7](http://xquartz.macosforge.org/landing/) 
 11. RStudio Desktop
+12. Sunrise (Calendar App)
 	
 ### Randoms
 
