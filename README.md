@@ -19,6 +19,8 @@ The software selected is software that is installed after my first Macbook Pro.
 5.  slack
 6.  Twitter
 7.  Microsoft Remote Desktop
+8.  Microsoft Office 2016 
+9.  Adobe Reader 
 
 ## Install from Third-Party Websites
 
