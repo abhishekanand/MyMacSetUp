@@ -21,6 +21,7 @@ The software selected is software that is installed after my first Macbook Pro.
 7.  Microsoft Remote Desktop
 8.  Microsoft Office 2016 
 9.  Adobe Reader 
+10.  Wnderlist
 
 ## Install from Third-Party Websites
 
