@@ -21,7 +21,8 @@ The software selected is software that is installed after my first Macbook Pro.
 7.  Microsoft Remote Desktop
 8.  Microsoft Office 2016 
 9.  Adobe Reader 
-10.  Wnderlist
+10.  Quip
+11.  Wunderlist
 
 ## Install from Third-Party Websites
 
@@ -32,6 +33,7 @@ The software selected is software that is installed after my first Macbook Pro.
 ### Devtools
 1. GitHub for Mac
 2. anaconda3 -2.3.0
+3. Docker Toolbox
 
 ### Utility Software
 1.  Atom editor
