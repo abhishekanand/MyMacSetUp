@@ -34,6 +34,7 @@ The software selected is software that is installed after my first Macbook Pro.
 1. GitHub for Mac
 2. anaconda3 -2.3.0
 3. Docker Toolbox
+4. VirtualBox
 
 ### Utility Software
 1.  Atom editor
