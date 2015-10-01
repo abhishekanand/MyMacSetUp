@@ -24,6 +24,17 @@ The software selected is software that is installed after my first Macbook Pro.
 ------------------------------------------------------
 #Installation #
 
+Git (version installed with Xcode)
+------------------------------
+
+```
+$ git --version
+git version 1.9.3 (Apple Git-50)
+
+$ which git
+/usr/bin/git
+```
+
 ------------------------------------------------------
 
 #PATH changes #
