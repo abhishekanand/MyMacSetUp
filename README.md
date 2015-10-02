@@ -21,6 +21,11 @@ The software selected is software that is installed after my first Macbook Pro.
 4. Alfred 2
 5. CCleaner
 
+### More
+1. VMware Fusion Professional Version 8.0.1
+2. Office 2016 for Mac
+
+
 ------------------------------------------------------
 #Installation #
 
