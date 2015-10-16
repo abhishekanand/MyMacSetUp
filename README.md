@@ -20,6 +20,10 @@ The software selected is software that is installed after my first Macbook Pro.
 3. Github Desktop for Mac
 4. Alfred 2
 5. CCleaner
+6. Skype
+7. Snagit
+8. DropBox
+9. Opera Browser
 
 ### More
 1. VMware Fusion Professional Version 8.0.1
