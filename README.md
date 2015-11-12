@@ -2,6 +2,16 @@ Wed Sep 30 07:51:11 PDT 2015 :  Vanilla Install before OS X El Capitan
 
 
 The software selected is software that is installed after my first Macbook Pro.
+
+
+1. Pages
+2. Keynote
+3. Numbers
+4. iMovie
+5. iPhoto
+6. GarageBand
+
+
 ### Install from App Store
 
 1.  Xcode  
@@ -13,6 +23,8 @@ The software selected is software that is installed after my first Macbook Pro.
 7.  Sunrise
 8.  Wunderlist
 9.  Noizio
+10. OneDrive
+11.
 
 ### Software Downloads :-
 1. Atom
@@ -24,10 +36,13 @@ The software selected is software that is installed after my first Macbook Pro.
 7. Snagit
 8. DropBox
 9. Opera Browser
+10. Mozilla Firefox
+11. Google Drive
 
 ### More
 1. VMware Fusion Professional Version 8.0.1
 2. Office 2016 for Mac
+
 
 
 ------------------------------------------------------
