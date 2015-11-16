@@ -43,7 +43,13 @@ The software selected is software that is installed after my first Macbook Pro.
 1. VMware Fusion Professional Version 8.0.1
 2. Office 2016 for Mac
 
+####
+1. Canopy (python 2.7.9)
+[1]: sys.version
+Out[1]: '2.7.9 | 64-bit | (default, Jun 30 2015, 19:41:21) \n[GCC 4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2335.6)]'
 
+2. Anaconda (python 3.5.0)
+3. PyCharm (python interpreter  - Anaconda)
 
 ------------------------------------------------------
 #Installation #
@@ -57,6 +63,15 @@ git version 1.9.3 (Apple Git-50)
 
 $ which git
 /usr/bin/git
+
+$ date
+Sun Nov 15 23:42:08 PST 2015
+AMP:~ AA$ git --version
+git version 2.4.9 (Apple Git-60)
+
+AMP:~ AA$ which git
+/usr/bin/git
+
 ```
 
 ------------------------------------------------------
@@ -68,6 +83,12 @@ $ date
 Thu Oct  1 14:51:16 PDT 2015
 $ echo $PATH
 /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+$ date
+Sun Nov 15 23:42:08 PST 2015
+
+AMP:~ AA$ echo $PATH
+/Users/AA/anaconda/bin:/Users/AA/Library/Enthought/Canopy_64bit/User/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 ```
 
 
