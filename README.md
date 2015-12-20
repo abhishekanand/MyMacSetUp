@@ -51,6 +51,14 @@ Out[1]: '2.7.9 | 64-bit | (default, Jun 30 2015, 19:41:21) \n[GCC 4.2.1 (Based o
 2. Anaconda (python 3.5.0)
 3. PyCharm (python interpreter  - Anaconda)
 
+####Other
+
+1. R
+2. Rstudio
+3. iTerm
+4. Homebrew
+5. ohmyzshell
+
 ------------------------------------------------------
 #Installation #
 

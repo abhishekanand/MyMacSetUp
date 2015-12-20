@@ -4,7 +4,7 @@ My Mac Set Up
 My Mac Setup OSX Yosemite
 
 [**Abhishek's Dotfiles Detail**](https://github.com/aageek/dotfiles)
- 
+
 # **Software Detail **
 
 ## Install Software
@@ -19,8 +19,8 @@ The software selected is software that is installed after my first Macbook Pro.
 5.  slack
 6.  Twitter
 7.  Microsoft Remote Desktop
-8.  Microsoft Office 2016 
-9.  Adobe Reader 
+8.  Microsoft Office 2016
+9.  Adobe Reader
 10.  Quip
 11.  Wunderlist
 
@@ -29,7 +29,7 @@ The software selected is software that is installed after my first Macbook Pro.
 ### Browsers
 1. Chrome (installed via Cask)
 2. [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-	
+
 ### Devtools
 1. GitHub for Mac
 2. anaconda3 -2.3.0
@@ -44,25 +44,25 @@ The software selected is software that is installed after my first Macbook Pro.
 5.  [Homebrew](http://brew.sh/)
 6.  [Homebrew casks](http://caskroom.io/)
 7.  iTerm 2
-8.  oh-my-zsh 
-9. R 
-10. [Xquartz-2.7.7](http://xquartz.macosforge.org/landing/) 
+8.  oh-my-zsh
+9. R
+10. [Xquartz-2.7.7](http://xquartz.macosforge.org/landing/)
 11. RStudio Desktop
 12. Sunrise (Calendar App)
-	
+
 ### Randoms
 
 1.  AdwareMedic
 2.  AppCleaner
 3.  Thunderbird
 4.  VLC
-5.  CCleaner 
+5.  CCleaner
 6.  Snagit 12
-7.  Spotify 
+7.  Spotify
 8.  Java 8 Update 25
 9.  Skype
 10.  Enthought Canopy (Python )
-11.  Flux 
+11.  Flux
 12.  Noiz.io
 13.  [CheatSheet](http://www.mediaatelier.com/CheatSheet/)
 
@@ -165,7 +165,7 @@ Run `brew doctor` before you install anything
 Run `brew help` to get started
 $ brew doctor
 Your system is ready to brew.
-$ 
+$
 
 ```
 
@@ -204,14 +204,14 @@ do so (now or later) by using -b with the checkout command again. Example:
 ==> Checking out tag v0.52.0
 ==> Patching
 🍺  /usr/local/Cellar/brew-cask/0.52.0: 2358 files, 9.3M, built in 10 seconds
-$ 
+$
 
 ```
 
 **Installation oh-my-zsh**
 
 ```
-$ curl -L http://install.ohmyz.sh | sh 
+$ curl -L http://install.ohmyz.sh | sh
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100   115  100   115    0     0    329      0 --:--:-- --:--:-- --:--:--   330
@@ -228,11 +228,11 @@ Using the Oh My Zsh template file and adding it to ~/.zshrc
 Copying your current PATH and adding it to the end of ~/.zshrc for you.
 Time to change your default shell to zsh!
 Changing shell for Anand.
-Password for Anand: 
+Password for Anand:
          __                                     __   
   ____  / /_     ____ ___  __  __   ____  _____/ /_  
- / __ \/ __ \   / __ `__ \/ / / /  /_  / / ___/ __ \ 
-/ /_/ / / / /  / / / / / / /_/ /    / /_(__  ) / / / 
+ / __ \/ __ \   / __ `__ \/ / / /  /_  / / ___/ __ \
+/ /_/ / / / /  / / / / / / /_/ /    / /_(__  ) / / /
 \____/_/ /_/  /_/ /_/ /_/\__, /    /___/____/_/ /_/  
                         /____/                       ....is now installed!
 
@@ -244,15 +244,15 @@ Password for Anand:
 
 
  p.p.s. Get stickers and t-shirts at http://shop.planetargon.com.
-$ 
+$
 
 ```
 * NOTE : After installation of oh-my-zsh default shell for Terminal and iTerm 2 changed to zsh . I changed terminal shell  back to  bash and iTerm 2 to zsh.
 
 
- *Terminal  : Go to the Users & Groups pane of the System Preferences -> Select the User -> Click the lock to make changes (Bottom left corner) -> right click the Current user select Advanced options... -> Select the Login Shell: /bin/bash and OK*
+ *Terminal  : Go to the Users & Groups pane of the System Preferences -> Select the User -> Click the lock to make changes (Bottom left corner) -> right click the Current user select Advanced options... -> Select the Login Shell: /bin/bash and OK *
 
-*iTerm 2 : preferences Profiles Tab -> General section set Command to: /bin/zsh --login*
+*iTerm 2 : preferences Profiles Tab -> General section set Command to: /bin/zsh --login *
 
 ![]
 (https://raw.githubusercontent.com/aageek/MyMacSetUp/master/images/zsh.jpg)
@@ -269,7 +269,7 @@ Thu Jan 22 00:28:07 PST 2015
 $ echo $PATH
 /Users/Anand/Library/Enthought/Canopy_64bit/User/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin
 ```
-Past 
+Past
 
 ```
 $ date
@@ -280,4 +280,3 @@ $ echo $PATH
 
 
 ######################END####################
-
